@@ -8,7 +8,6 @@ int main()
   
 cout << "=================================================" << endl; 
 cout << " Program: GPA CALCULATOR" << endl; 
-cout << " Author : [Irfan Danial]" << endl; 
 cout << "=================================================" << endl; 
  
  
